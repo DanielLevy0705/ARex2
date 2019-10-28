@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AR Foundation Samples
 
 Example projects that use [*AR Foundation 3.0*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@3.0/manual/index.html) and demonstrate its functionality with sample assets and components.
@@ -208,3 +209,6 @@ This sample requires a device with an A12 bionic chip running iOS 13.
 This sample demonstrates "people occlusion", which can produce stencil and depth textures for detected persons. This sample is very primitive and simply displays the raw texture on the screen. We are currently working on a better sample.
 
 This sample requires a device with an A12 bionic chip running iOS 13.
+=======
+# ARex2
+>>>>>>> 55b575f16ee025ac64963f430bb209dededc4680

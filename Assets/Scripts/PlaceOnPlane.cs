@@ -68,7 +68,6 @@ public class PlaceOnPlane : MonoBehaviour
             // will be the closest hit.
             var hitPose = s_Hits[0].pose;
 
-            // TODO: make the ball shoot from camera location to the hitPose.
             if (spawnedObject == null)
             {
                 spawnedObject = Instantiate(m_PlacedPrefab, hitPose.position, hitPose.rotation);
